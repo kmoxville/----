@@ -1,0 +1,15 @@
+/Users/kmoxville1/Documents/мпод/08. PLINQ/bin/Debug/net10.0/PlinqQueries
+/Users/kmoxville1/Documents/мпод/08. PLINQ/bin/Debug/net10.0/PlinqQueries.deps.json
+/Users/kmoxville1/Documents/мпод/08. PLINQ/bin/Debug/net10.0/PlinqQueries.runtimeconfig.json
+/Users/kmoxville1/Documents/мпод/08. PLINQ/bin/Debug/net10.0/PlinqQueries.dll
+/Users/kmoxville1/Documents/мпод/08. PLINQ/bin/Debug/net10.0/PlinqQueries.pdb
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.AssemblyInfoInputs.cache
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.AssemblyInfo.cs
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.csproj.CoreCompileInputs.cache
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.sourcelink.json
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.dll
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/refint/PlinqQueries.dll
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.pdb
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/PlinqQueries.genruntimeconfig.cache
+/Users/kmoxville1/Documents/мпод/08. PLINQ/obj/Debug/net10.0/ref/PlinqQueries.dll
