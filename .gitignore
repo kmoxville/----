@@ -1,1 +1,11 @@
 /Лекции
+
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+.DS_Store
